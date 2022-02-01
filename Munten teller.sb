@@ -30,14 +30,14 @@ Sub Buttonclicked
 EndSub
 
 Sub munten
-  Munt[1] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\2euro.png")
-  Munt[2] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\1euro.png")
-  Munt[3] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\50cent.png")
-  Munt[4] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\20cent.png")
-  Munt[5] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\10cent.png")
-  Munt[6] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\5cent.png")
-  Munt[7] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\2cent.png")
-  Munt[8] = ImageList.LoadImage("C:\Portfolio\Small Basic\Munten teller\Images\1cent.png")
+  Munt[1] = ImageList.LoadImage("C:\Muntenteller\Images\2euro.png")
+  Munt[2] = ImageList.LoadImage("C:\Muntenteller\Images\1euro.png")
+  Munt[3] = ImageList.LoadImage("C:\Muntenteller\Images\50cent.png")
+  Munt[4] = ImageList.LoadImage("C:\Muntenteller\Images\20cent.png")
+  Munt[5] = ImageList.LoadImage("C:\Muntenteller\Images\10cent.png")
+  Munt[6] = ImageList.LoadImage("C:\Muntenteller\Images\5cent.png")
+  Munt[7] = ImageList.LoadImage("C:\Muntenteller\Images\2cent.png")
+  Munt[8] = ImageList.LoadImage("C:\Muntenteller\Images\1cent.png")
 Endsub
 
 Sub berekening
